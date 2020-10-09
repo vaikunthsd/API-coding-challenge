@@ -2,7 +2,6 @@
 
 ## Requirements:
 
-Provide all Python source code to perform the requested actions and answer any questions as follows:
 * Use Python 3.8 as base version
 * Create a class for all API interactions with methods for all interactions with the API
 * Use pythonic practices as much as possible, including formatting matching PEP-8
