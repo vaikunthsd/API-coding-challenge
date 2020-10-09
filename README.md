@@ -11,11 +11,11 @@ standards
 
 ## Scenario:
 
-The JSONPlaceholder website allows for testing against a sample set of data, description here:http://jsonplaceholder.typicode.com/
+The JSONPlaceholder website allows for testing against a sample set of data, description here: (http://jsonplaceholder.typicode.com/)
 
 Notice that examples are in JavaScript, you will have to translate what is expected to Python. 
 
-(Full endpoint API docs here: http://jsonplaceholder.typicode.com/guide.html)
+(Full endpoint API docs here: (http://jsonplaceholder.typicode.com/guide.html))
 
 Using the API to interact with the JSONPlaceholder website, accomplish the following goals:
 
