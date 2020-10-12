@@ -1,4 +1,4 @@
-# API-coding-challenge
+# API Coding Challenge
 
 ## Requirements:
 
