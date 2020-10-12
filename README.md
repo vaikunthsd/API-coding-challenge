@@ -27,7 +27,7 @@ record</li>
  </ol>
   <li>Create a new /posts entry which the following values</li>
   <ol type="a">
-  <li>Title: Security Interview Post</li>
+  <li>Title: Test Post</li>
    <li>UserID: 500</li>
    <li>Body: This is an insertion test with a known API</li>
  </ol>
